@@ -1,5 +1,28 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vanshvir+Chauhan!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+
 # 💫 About Me:
-🔭 I’m a Full Stack Developer residing in India<br>👯 Offering freelance web development services on Upwork<br>🤝 Always interested to collaborate on new ideas<br>🌱 Currently in the process of learning Angular<br>💬 Ask me anything
+ 🔭 I’m a Software Developer residing in India
+ <br>
+ 👯 Offering freelance web development services on Upwork
+ <br>
+ 🤝 Always interested to collaborate on new ideas
+ <br>
+ 🌱 Currently in the process of learning Angular
+ <br>
+ 💬 Ask me anything
+
+
+ </div>
+
+ <hr/>
 
 
 ## 🌐 Socials:
